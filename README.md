@@ -6,6 +6,14 @@ Inspired by a professional tutorial, this dashboard offers a polished and stylis
 
 ---
 
+
+## 📸 Dashboard Preview
+
+<img width="1912" height="980" alt="image" src="https://github.com/user-attachments/assets/9c521df2-8733-44bf-b7bc-947d78d86ab8" />
+(dashboard-preview.png)
+
+---
+
 ## 🚀 Features
 - Dynamic web-style chart to break down income by source
 - Doughnut chart to visualize income goal achievement
