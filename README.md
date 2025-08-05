@@ -17,7 +17,7 @@ Inspired by a professional tutorial, this dashboard offers a polished and stylis
 ## 📁 Download the Excel File
 
 Click to explore the raw file:  
-[📥 Download dashboard.xlsx]([dashboard.xlsx]https://1drv.ms/x/c/be1c93a5d078d3f2/ERS-MN115GZPpKsk_Wfz03cB66cyoJD5dKIZOxooHcNGXg?e=Q368lS)
+[📥 Download dashboard.xlsx](https://1drv.ms/x/c/be1c93a5d078d3f2/ERS-MN115GZPpKsk_Wfz03cB66cyoJD5dKIZOxooHcNGXg?e=Q368lS)
 
 
 ---
