@@ -10,7 +10,15 @@ Inspired by a professional tutorial, this dashboard offers a polished and stylis
 ## 📸 Dashboard Preview
 
 <img width="1912" height="980" alt="image" src="https://github.com/user-attachments/assets/9c521df2-8733-44bf-b7bc-947d78d86ab8" />
-(dashboard-preview.png)
+(dashboard-preview)
+
+---
+
+## 📁 Download the Excel File
+
+Click to explore the raw file:  
+[📥 Download dashboard.xlsx]([assets/dashboard.xlsx](https://1drv.ms/x/c/be1c93a5d078d3f2/ERS-MN115GZPpKsk_Wfz03cB66cyoJD5dKIZOxooHcNGXg?e=287x6Y))
+
 
 ---
 
