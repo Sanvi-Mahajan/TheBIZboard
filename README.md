@@ -17,7 +17,7 @@ Inspired by a professional tutorial, this dashboard offers a polished and stylis
 ## 📁 Download the Excel File
 
 Click to explore the raw file:  
-[📥 Download dashboard.xlsx]([assets/dashboard.xlsx](https://1drv.ms/x/c/be1c93a5d078d3f2/ERS-MN115GZPpKsk_Wfz03cB66cyoJD5dKIZOxooHcNGXg?e=287x6Y))
+[📥 Download dashboard.xlsx]([dashboard.xlsx](https://1drv.ms/x/c/be1c93a5d078d3f2/ERS-MN115GZPpKsk_Wfz03cB66cyoJD5dKIZOxooHcNGXg?e=287x6Y))
 
 
 ---
@@ -46,7 +46,7 @@ Click to explore the raw file:
 ---
 
 ## 📝 Credits
-This dashboard was created by following Other Level's (#) ([link to the original video](https://www.youtube.com/watch?v=z26zbiGJnd4&list=PLq3s2PiPRhR6JZKWek94USTBOkte3Ae75&index=2)). 
+This dashboard was created by following Other Level's ([link to the original video](https://www.youtube.com/watch?v=z26zbiGJnd4&list=PLq3s2PiPRhR6JZKWek94USTBOkte3Ae75&index=2)). 
 
 All design inspiration and concepts belong to the original creator. This project was built purely for learning purposes.
 
