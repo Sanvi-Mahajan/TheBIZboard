@@ -20,8 +20,9 @@ Click to explore the raw file:
 [📥 Download dashboard.xlsx](https://1drv.ms/x/c/be1c93a5d078d3f2/ERS-MN115GZPpKsk_Wfz03cB66cyoJD5dKIZOxooHcNGXg?e=Q368lS)
 
 ---
+## 📷 Demo
 
-![Demo](![demo gif](https://github.com/user-attachments/assets/5e0be9fa-7450-4e7a-b588-416dda0bb931)
+[Demo](![demo gif](https://github.com/user-attachments/assets/5e0be9fa-7450-4e7a-b588-416dda0bb931)
 )
 
 ---
